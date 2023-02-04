@@ -5,5 +5,5 @@
     <li>use git basics</li>
     <li>link pages</li>
     <li>use lists</li>
-    <li>learned to use <'img'> and <'h1>'</li>
+    <li>learned to use <'img'> and <'h1'></li>
 </ul>
